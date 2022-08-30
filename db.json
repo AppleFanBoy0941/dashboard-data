@@ -78,7 +78,7 @@
 		},
 		{
 			"id": 2,
-			"name": "130i Chainsaw",
+			"name": "Husqvarna 130i",
 			"brand": "Husqvarna",
 			"tags": ["chainsaw", "electric", "motor"],
 			"ean": "5701161713147",
@@ -146,7 +146,7 @@
 			"brand": "Husqvarna",
 			"tags": ["knife", "flipknife", "blade"],
 			"ean": "5701161713147",
-			"description": "Nu med en endnu større chain der virkelig vil få dine elever til at holde deres mund. Denne 130i har en ny og effektiv motor som gør at eleverne vil lytte i timerne.",
+			"description": "En endnu større chainsaw der virkelig vil få dine elever til at holde deres mund. Denne 130i har en ny og effektiv motor som gør at eleverne vil lytte i timerne.",
 			"purchase_price": "99.00",
 			"retail_price": "3999.00",
 			"stock": "10",
@@ -195,7 +195,7 @@
 				},
 				{
 					"user_id": "1",
-					"review": "Mangler et større blad, da det er en lille kniv, det er svært at nå eleverne fra stolen. Det er dog en god kniv.",
+					"review": "Mangler et større blad, da det er en lille chainsaw, det er svært at nå eleverne fra stolen. Det er dog en god chainsaw.",
 					"rating": "8",
 					"date": "2022-08-21"
 				}
@@ -477,6 +477,7 @@
 					"quantity": "3"
 				}
 			],
+			"total": "6",
 			"shipping": {
 				"method": "FedEx",
 				"price": "49.99",
@@ -502,6 +503,7 @@
 					"quantity": "5"
 				}
 			],
+			"total": "6",
 			"shipping": {
 				"method": "Wolt",
 				"price": "0",
@@ -535,6 +537,7 @@
 					"quantity": "1"
 				}
 			],
+			"total": "4",
 			"shipping": {
 				"method": "FedEx",
 				"price": "49.99",
@@ -576,6 +579,7 @@
 					"quantity": "1"
 				}
 			],
+			"total": "6",
 			"shipping": {
 				"method": "FedEx",
 				"price": "49.99",
@@ -601,6 +605,7 @@
 					"quantity": "1"
 				}
 			],
+			"total": "3",
 			"shipping": {
 				"method": "Wolt",
 				"price": "0",
