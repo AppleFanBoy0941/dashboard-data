@@ -411,7 +411,7 @@
 	],
 	"users": [
 		{
-			"id": 1,
+			"id": "000001",
 			"name": "Brian Emilius",
 			"password": "basicFetaEnjoyer1234",
 			"email": "brian@feta.com",
@@ -422,10 +422,11 @@
 				"zip": "1234"
 			},
 			"orders_id": ["1", "3", "4"],
-			"badges": ["premium", "10years", "stockKiller", "custom:feta"]
+			"badges": ["premium", "10years", "stockKiller", "custom:feta"],
+			"image": "/images/userimg01.png"
 		},
 		{
-			"id": 2,
+			"id": "000002",
 			"name": "Feta Emilius",
 			"password": "basicBrianEnjoyer1234",
 			"email": "fetamester@lortemail.dk",
@@ -436,10 +437,11 @@
 				"zip": "4321"
 			},
 			"orders_id": ["2", "5"],
-			"badges": ["premium", "stockKiller", "custom:fetaItsMe", "onlyFeta"]
+			"badges": ["premium", "stockKiller", "custom:fetaItsMe", "onlyFeta"],
+			"image": "/images/userimg01.png"
 		},
 		{
-			"id": 3,
+			"id": "000003",
 			"name": "Ung Pige der hedder Jytte",
 			"password": "brianImitator1234",
 			"email": "jyttepigen@gmail.com",
@@ -450,7 +452,8 @@
 				"zip": "1234"
 			},
 			"orders_id": [],
-			"badges": ["new"]
+			"badges": ["new"],
+			"image": "/images/userimg01.png"
 		}
 	],
 	"orders": [
