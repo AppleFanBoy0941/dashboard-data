@@ -427,41 +427,31 @@
 					"name": "premium",
 					"description": "Premium bruger af Lærevenlige Slåmidler",
 					"icon": "star",
-					"bg": "bg-amber-400",
-					"border": "border-amber-300",
-					"color": "text-black"
+					"color": "amber"
 				},
 				{
 					"name": "verified",
 					"description": "Verificeret bruger af Lærevenlige Slåmidler",
 					"icon": "check",
-					"bg": "bg-green-400",
-					"border": "border-green-300",
-					"color": "text-black"
+					"color": "green"
 				},
 				{
 					"name": "10 years",
 					"description": "Bruger i 10 år",
 					"text": "10",
-					"bg": "bg-blue-400",
-					"border": "border-blue-300",
-					"color": "text-black"
+					"color": "blue"
 				},
 				{
 					"name": "stock killer",
 					"description": "Når man har købt lidt for mange varer",
 					"icon": "package",
-					"bg": "bg-red-400",
-					"border": "border-red-300",
-					"color": "text-black"
+					"color": "red"
 				},
 				{
 					"name": "custom:feta",
 					"description": "Lorem ipsum, dette er en beskrivelse af en bruger med en egen tilpasset badge",
 					"icon": "star",
-					"bg": "bg-fuchsia-300",
-					"border": "border-fuchsia-200",
-					"color": "text-black"
+					"color": "fuchsia"
 				}
 			],
 			"image": "/images/userimg01.png"
@@ -483,33 +473,25 @@
 					"name": "premium",
 					"description": "Premium bruger af Lærevenlige Slåmidler",
 					"icon": "star",
-					"bg": "bg-amber-400",
-					"border": "border-amber-300",
-					"color": "text-black"
+					"color": "amber"
 				},
 				{
 					"name": "stock killer",
 					"description": "Når man har købt lidt for mange varer",
 					"icon": "package",
-					"bg": "bg-red-400",
-					"border": "border-red-300",
-					"color": "text-black"
+					"color": "red"
 				},
 				{
 					"name": "custom:feta",
 					"description": "Lorem ipsum, dette er en beskrivelse af en bruger med en egen tilpasset badge",
 					"icon": "star",
-					"bg": "bg-fuchsia-300",
-					"border": "border-fuchsia-200",
-					"color": "text-black"
+					"color": "fuchsia"
 				},
 				{
 					"name": "only feta",
 					"description": "Profil linket med Only Feta",
 					"icon": "star",
-					"bg": "bg-sky-300",
-					"border": "border-sky-200",
-					"color": "text-black"
+					"color": "sky"
 				}
 			],
 			"image": "/images/userimg01.png"
@@ -531,9 +513,7 @@
 					"name": "new",
 					"description": "Ny bruger af Lærevenlige Slåmidler",
 					"icon": "heart",
-					"bg": "bg-red-400",
-					"border": "border-red-300",
-					"color": "text-black"
+					"color": "red"
 				}
 			],
 			"image": "/images/userimg01.png"
